@@ -4,4 +4,6 @@
 2. Run preprocess()
 3. Run train()
 4. Run predict()
-5. Run evaluate()
+5. Run evaluate() --> this will print model accuracy
+
+Note: each function reads from and outputs new csv files
