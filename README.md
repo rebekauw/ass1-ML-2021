@@ -1,5 +1,5 @@
 # ass1-ML-2021
-Karen Li (871437) | Rebekah Wu (1074412)
+Karen Li | Rebekah Wu
 
 1. Set NB_CLF to True for Gaussian naïve Bayes classification or False for KDE naïve Bayes classification
 2. Run preprocess()
